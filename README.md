@@ -6,4 +6,4 @@ favourite color
 photogeneic face
 
 best picture
-
+best photo
